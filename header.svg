@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Sowmya Reddy Bodlapati</title><desc id="desc">Software engineering, systems integration, and applied AI. A navy and electric blue typographic banner.</desc>
+<rect width="1200" height="360" rx="20" fill="#091528"/>
+<path d="M0 315H1200" stroke="#253b59"/>
+<rect x="58" y="55" width="42" height="5" rx="2" fill="#60a5fa"/>
+<text x="116" y="65" fill="#93b6df" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">ENGINEERING / SYSTEMS / AI</text>
+<text x="58" y="156" fill="#f8fafc" font-family="Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Sowmya Reddy</text>
+<text x="58" y="221" fill="#60a5fa" font-family="Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Bodlapati.</text>
+<text x="61" y="280" fill="#c5d1e2" font-family="Arial,sans-serif" font-size="22">Software that connects technology with business needs.</text>
+<text x="61" y="344" fill="#a8bad1" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">JAVA FULL STACK</text>
+<text x="420" y="344" fill="#a8bad1" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">MS APPLIED COMPUTER SCIENCE</text>
+<text x="954" y="344" fill="#a8bad1" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">ROGERS, AR</text>
+</svg>

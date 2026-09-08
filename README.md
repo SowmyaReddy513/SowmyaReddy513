@@ -1,21 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sowmya Reddy Bodlapati</h1>
-<h3 align="center">Frontend Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmyareddy513" alt="sowmyareddy513" /></a> </p>
-
-- 🔭 I’m currently pursuing Masters in **Applied Computer Science**
-
-- 🌱 I’m currently learning **Fullstack**
-
-- 👯 I’m currently working on **Web applications**
-
-- 👨‍💻 All of my projects are available at [github.com/Sowmyareddy513](github.com/Sowmyareddy513)
-
-
-<p align="left">
+<p align="center">
+  <img src="header.svg" alt="Sowmya Reddy Bodlapati — Software engineering, systems integration, and applied AI" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Java full-stack development · Enterprise applications · AI-assisted delivery</strong><br />
+  Rogers, Arkansas · Open to opportunities across Arkansas and Oklahoma
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowmyareddy513&show_icons=true&locale=en&layout=compact" alt="sowmyareddy513" /></p>
+<p align="center">
+  <a href="https://github.com/SowmyaReddy513?tab=repositories">Explore my repositories</a>
+</p>
+
+---
+
+## Engineering with the business in view
+
+I'm Sowmya, a software engineer with experience in enterprise application development, systems integration, and production support. My work connects Java and Spring Boot services, APIs, databases, and frontend applications with the requirements and workflows they serve.
+
+I have worked on a Walmart client engagement and at Accenture, collaborating with business analysts, QA, DevOps, and technical stakeholders throughout the software delivery lifecycle. I hold an **MS in Applied Computer Science** and am pursuing a **DBA with an IT Management specialization** at Belhaven University.
+
+## What I work with
+
+| Area | Technologies and practices |
+| :--- | :--- |
+| Backend and integration | Java, Spring Boot, Spring MVC, REST APIs, Apache Kafka, microservices |
+| Frontend | Angular, React, JavaScript, TypeScript, HTML, CSS |
+| Data and cloud | SQL, PostgreSQL, MySQL, MongoDB, Azure, AWS |
+| Delivery and quality | Git, Jenkins, Azure DevOps, Docker, Kubernetes, JUnit, Mockito |
+| Applied AI | AI-assisted coding and testing, prompt engineering, LLM workflows; working knowledge of embeddings and RAG patterns |
+| Collaboration | Requirements analysis, Agile/Scrum, technical documentation, UAT and release coordination |
+
+## Explore the code
+
+These repositories collect my development practice and project work. Each link opens the source; they are not claims of production deployments.
+
+| Repository | Focus |
+| :--- | :--- |
+| [LibraryApplication](https://github.com/SowmyaReddy513/LibraryApplication) | Java application repository with a Maven project structure |
+| [veggiebarter-admin](https://github.com/SowmyaReddy513/veggiebarter-admin) | TypeScript repository |
+| [SpringWeb](https://github.com/SowmyaReddy513/SpringWeb) | Java and Spring web development practice |
+| [CoreJava](https://github.com/SowmyaReddy513/CoreJava) | Java fundamentals |
+| [BMI_iOSApp](https://github.com/SowmyaReddy513/BMI_iOSApp) | Swift application repository |
+
+## Experience and education
+
+**Software Engineer — Walmart client engagement**  
+February 2024 – August 2026  
+Java/Spring Boot services, Angular interfaces, API and database integrations, cross-team troubleshooting, technical documentation, and release support.
+
+**Application Development Associate — Accenture**  
+August 2021 – July 2022  
+Spring Boot microservices, Kafka integrations, requirements analysis, testing, and application modernization support.
+
+**DBA, IT Management specialization** — Belhaven University · August 2026 – present  
+**MS, Applied Computer Science** — Northwest Missouri State University · December 2023  
+**BTech, Computer Science and Engineering** — Narasaraopeta Engineering College · July 2021
+
+## Where I want to contribute
+
+Software engineering, business and systems analysis, IT project coordination, and applied AI. I am also interested in computing instruction, tutoring, and technology-focused volunteer work where my education and experience fit the role.
+
+<p align="center"><sub>Build clearly. Document decisions. Keep learning.</sub></p>
