@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Java full-stack development · Enterprise applications · AI-assisted delivery</strong><br />
-  Rogers, Arkansas · Open to opportunities across Arkansas and Oklahoma
+  Open to software engineering, technology, and teaching opportunities
 </p>
 
 <p align="center">
